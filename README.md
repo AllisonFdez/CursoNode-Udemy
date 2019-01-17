@@ -4,4 +4,6 @@ Esta aplicación es el resultado de desarrollar el curso "Node de cero a experto
 
 Ejecutar comando:
 
+```
 npm install
+```
